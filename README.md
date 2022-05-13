@@ -1,16 +1,16 @@
-### Hi there 👋
+# FanghaoMeng
+Hi there, welcome to my GitHub profile!
 
-<!--
-**copeelite/copeelite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is FanghaoMeng, a Seneca college student and I'm an aspiring junior web developer!
 
-Here are some ideas to get you started:
+Vist my new portfolio: NULL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ I’m currently building cool projects that I can add to my portfolio
+
+- 💻 I’m currently learning JavaScript and Python
+
+- ❓ Ask me about crypto, business and, of course, tech
+
+- 📫 How to reach me
+
+  - Email(fmeng18@myseneca.ca)
